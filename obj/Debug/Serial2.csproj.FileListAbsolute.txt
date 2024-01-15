@@ -1,0 +1,24 @@
+C:\Users\innertron\source\repos\Serial2\bin\Debug\Serial2.exe.config
+C:\Users\innertron\source\repos\Serial2\bin\Debug\Serial2.exe
+C:\Users\innertron\source\repos\Serial2\bin\Debug\Serial2.pdb
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.csprojAssemblyReference.cache
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.Form1.resources
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.Properties.Resources.resources
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.csproj.GenerateResource.cache
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.exe
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.pdb
+C:\Users\innertron\source\repos\Serial2\obj\Debug\Serial2.Form2.resources
+D:\새 폴더\▶인수인계자료_2020_11월_김태수\04.Program\03.Signal Generator\01.Project\obj\Debug\Serial2.csproj.AssemblyReference.cache
+D:\새 폴더\▶인수인계자료_2020_11월_김태수\04.Program\03.Signal Generator\01.Project\obj\Debug\Serial2.exe
+D:\새 폴더\▶인수인계자료_2020_11월_김태수\04.Program\03.Signal Generator\01.Project\obj\Debug\Serial2.pdb
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\bin\Debug\Serial2.exe.config
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\bin\Debug\Serial2.exe
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\bin\Debug\Serial2.pdb
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.csproj.AssemblyReference.cache
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.Form1.resources
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.Form2.resources
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.Properties.Resources.resources
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.csproj.GenerateResource.cache
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.csproj.CoreCompileInputs.cache
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.exe
+C:\Users\yeoub\Desktop\03.Signal Generator\01.Project\obj\Debug\Serial2.pdb
